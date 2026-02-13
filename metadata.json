@@ -1,0 +1,5 @@
+{
+  "name": "Helsinki Electrical Price Dashboard",
+  "description": "A comprehensive end-to-end data science dashboard for predicting day-ahead electricity prices in the Helsinki region using Fingrid and FMI data, featuring Spark ETL, Scikit-learn modeling, and MLflow tracking.",
+  "requestFramePermissions": []
+}
